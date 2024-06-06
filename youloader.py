@@ -1,6 +1,6 @@
 import tkinter
 import customtkinter
-from pytube import youtube
+from pytube import YouTube
 
 # System Settings
 customtkinter.set_appearance_mode('system')
