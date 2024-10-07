@@ -1,4 +1,7 @@
-# youloader
-Python GUI project, 'YouXXXX' video downloader 
-Uses: Python 3, tkinter, customtkinter and pytube
+Dependencies:
 
+`pip install tkinter`
+
+`pip install custom tkinter`
+
+`pip install Pillow`
