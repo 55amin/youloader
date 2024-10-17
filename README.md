@@ -2,6 +2,8 @@ Dependencies:
 
 `pip install tkinter`
 
-`pip install custom tkinter`
+`pip install customtkinter`
 
 `pip install Pillow`
+
+`pip install pytubefix`
